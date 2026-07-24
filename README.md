@@ -10,10 +10,8 @@ This was the **first Rainmeter skin I published**, combining a clean desktop lau
 
 ## Preview
 
-> Add one or more screenshots here.
 
-<!-- Example -->
-<!-- ![Desktop Preview](screenshots/preview.png) -->
+[Desktop Preview](screenshots/preview.png)
 
 ---
 
